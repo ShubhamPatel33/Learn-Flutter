@@ -17,7 +17,7 @@ const List<Key> keys = [
   Key("AssetDialog")
 ];
 
-class _CustomGridVIewState extends State<CustomGridView> {
+class _CustomGridViewState extends State<CustomGridView> {
   // Deklarasi data list
   List<Container> daftarGunung = new List();
   var itemDaftarGunung = [
